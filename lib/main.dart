@@ -23,7 +23,7 @@ void main() async {
     title: "Intro to Parse",
     home: Scaffold(
       appBar: AppBar(
-        title: Text('JSON Parse'),
+        title: Text('Quake'),
         centerTitle: true,
         backgroundColor: Colors.orangeAccent,
       ),
